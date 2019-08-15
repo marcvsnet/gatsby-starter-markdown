@@ -9,7 +9,8 @@ const IndexPage = () => {
       <div>
         <div align="center">
         <br/>
-          <img style={{width: 300}} src={headerPic} alt="Logo" />
+          <br/><br/><br/><br/>
+          <img style={{width: 400}} src={headerPic} alt="Light house" />
           <p style={{color: "black", fontSize: 30}}>
             Probleme kann man niemals<br/>mit derselben Denkweise lösen,<br/>durch die sie entstanden sind.
           </p>
