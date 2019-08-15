@@ -61,10 +61,10 @@ const ProfilePage = () => {
             Starting from the really beginning, we
             <br/><br/>
             <ul>
-              <li>Analyse the automation requirements</li>
-              <li>Define the automation processes with stakeholders</li>
-              <li>Implement workflows and scripts</li>
-              <li>Test and stage the automation items</li>
+              <li><b>Analyse</b> the automation requirements</li>
+              <li><b>Define</b> the automation processes with stakeholders</li>
+              <li><b>Implement</b> workflows and scripts</li>
+              <li><b>Test</b> and <b>stage</b> the automation items</li>
             </ul>
             <br/><br/>
             <h2>What are our references?</h2>
