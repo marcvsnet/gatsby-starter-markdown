@@ -1,5 +1,9 @@
 [
   { 
+    "name": "About",
+    "link":  "/about"
+  },
+  { 
     "name": "Docs",
     "link":  "/docs/get-started/introduction"
   },
