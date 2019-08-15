@@ -11,7 +11,7 @@ const ProfilePage = () => {
         <div align="center">
           <h1>You ask. We deliver.</h1>
           <br/>
-          <div class="blog-post">
+          <div class="blog-post" style="text-align: left;">
             <h2>What is our focus?</h2>
             Nobody is able to know everything in every space in IT. So we focused in specific spaces to offer you the best consulting expierence.
             <h3>Architecture</h3>
