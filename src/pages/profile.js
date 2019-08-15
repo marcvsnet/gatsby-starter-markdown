@@ -67,12 +67,31 @@ const ProfilePage = () => {
               <li><b>Test</b> and <b>stage</b> the automation items</li>
             </ul>
             <br/><br/>
-            <h2>What are our references?</h2>
+            <h2>How did we proof our experties?</h2>
+            <h3>Customer references</h3>
+            We worked in small and large projects with several key players in their industry. Working closely with their teams, being them a good advisor, train them and taking care after
+            closing the project belongs to our key values. Please understand that we can't publish the company names, but use this list as an rough indicator, for whom we worked and delivered:
             <ul>
               <li>Large German banks</li>
               <li>Large German insurances</li>
               <li>Well known business software companies</li>
               <li>Global industry players</li>
+            </ul>
+            <br/>
+            <h3>Certifications</h3>
+            <ul>
+              <li>VMware Certified Professional 6 – Data Center Virtualization</li>
+              <li>VMware Certified Advanced Professional 6 – Data Center Virtualization Design</li>
+              <li>VMware Certified Advanced Professional 6 – Data Center Virtualization Deployment</li>
+              <li>VMware Certified Implementation Expert 6 – Data Center Virtualization</li>
+              <li>VMware Certified Professional 6 + 7 – Cloud Management and Automation</li>
+              <li>VMware Certified Advanced Professional 7 – Cloud Management Automation Design</li>
+              <li>VMware Certified Professional 6 – Network Virtualization</li>
+              <li>AWS Certified Solutions Architect - Associate</li>
+              <li>PRINCE2® Foundation</li>
+              <li>ITIL® v3 Foundation</li>
+              <li>TOGAF® 9 Foundation</li>
+              <li>COBIT® 5 Foundation</li>
             </ul>
             <br/><br/>
             You are interested?
