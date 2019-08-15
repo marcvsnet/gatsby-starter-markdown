@@ -14,15 +14,17 @@ const ProfilePage = () => {
           <div class="blog-post" style={{textAlign: "left"}}>
             <h2>What is our focus?</h2>
             Nobody is able to know everything in every space in IT. So we focused in specific spaces to offer you the best consulting expierence.
+            <br/><br/>
             <h3>Architecture</h3>
-            You are looking for somebody who is able to handle the full picture of a greenfield architecture or is even able to convert
-            your brownfield architecture into a validated and industry accepted standardized, but customized, design?
+            You are looking for somebody who is able to handle the full picture of a greenfield architecture or is even able to convert your brownfield
+            architecture into a validated and industry accepted standardized, but customized, design?<br/>
             We are the right partner for you. We are specialized in enterprise-sized architectures for:
-            <br/>
-            VMware Validate Design for SDDC
-            <br/>
-            <i>or just single products like</i>
-            <br/>
+            <br/><br/>
+            <b>VMware Validate Design for SDDC</b>
+            <br/><br/>
+            <i>or</i>
+            <b>individual products of the stack like</b>
+            <br/><br/>
             <ul>
               <li>VMware vSphere</li>
               <li>VMware vRealize Suite</li>
@@ -32,17 +34,46 @@ const ProfilePage = () => {
                 <li>vRealize Operations</li>
                 <li>vRealize Lifecycle Manager</li>
               </ul>
+              <li>VMware NSX-T and NSX-V</li>
               <li>VMware Cloud on AWS</li>
+              <li>VMware Integrated OpenStack</li>
+              <li>VMware Enterprise PKS</li>
             </ul>
-            or 
-
+            <br/><br/>
+            As part of the architecture role we deliver:
+            <ul>
+              <li>Requirements engineering</li>
+              <li>Architecture documentation (High- and Low level designs)</li>
+              <li>Work package definition</li>
+            </ul>
+            <br/><br/>
             <h3>Automation</h3>
-            Everybody talks about automation today. We do it for seven years on-going with:
+            Everybody talks about automation today. We do it now for seven years on-going on an enterprise level with:
+            <br/><br/>
             <ul>
               <li>vRealize Automation</li>
               <li>vRealize Orchestrator</li>
               <li>PowerShell/PowerCLI</li>
             </ul>
+            <br/><br/>
+            Starting from the really beginning, we
+            <ul>
+              <li>Analyse the automation requirements</li>
+              <li>Define the automation processes with stakeholders</li>
+              <li>Implement workflows and scripts</li>
+              <li>Test and stage the automation items</li>
+            </ul>
+            <br/><br/>
+            <h2>What are our references?</h2>
+            <ul>
+              <li>Large German banks</li>
+              <li>Large German insurances</li>
+              <li>Well known business software companies</li>
+              <li>Global industry players</li>
+            </ul>
+            <br/><br/>
+            You are interested?
+            <br/><br/>
             <Button type="secondary" size="large" href="./contact-us">Contact us</Button>
           </div>
         </div>
