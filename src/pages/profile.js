@@ -99,7 +99,7 @@ const ProfilePage = () => {
             <br/><br/>
             You are interested?
             <br/><br/>
-            <Button type="secondary" size="large" href="./contact-us">Contact us</Button>
+            <Button type="secondary" size="large" href="./impress">Contact us</Button>
           </div>
         </div>
       </div>
