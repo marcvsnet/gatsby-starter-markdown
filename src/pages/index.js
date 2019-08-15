@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/Layout'
-import { ReactComponent as Logo } from 'src/images/undraw_light_the_fire_gt58.svg';
+import { ReactComponent as Logo } from '../images/undraw_light_the_fire_gt58.svg';
 
 
 const IndexPage = () => {
