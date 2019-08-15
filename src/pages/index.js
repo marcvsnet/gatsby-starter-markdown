@@ -11,7 +11,7 @@ const IndexPage = () => {
         <div align="center">
         <br/>
           <p style={{color: "cornflowerblue", fontSize: 50, fontWeight: 'bold'}}>
-            Gatsby Markdown Starter
+            schoen solutions
           </p>
           <h2>Boilerplate for markdown-based website</h2>
           <br/>
