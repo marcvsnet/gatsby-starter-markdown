@@ -11,14 +11,11 @@ const AboutPage = () => {
         <div align="center">
         <br/>
           <p style={{color: "steelblue", fontSize: 50, fontWeight: 'bold'}}>
-            Marcus Schoen
+            Who are we?/Who am I?
           </p>
-          <h2>Boilerplate for markdown-based website</h2>
+          <h2>Profile of Marcus Schoen</h2>
           <br/>
-          <Link to="/docs/get-started/introduction">
-            <Button type="primary" size="large" style={{marginRight: 10}}>Get Started</Button>
-          </Link>
-          <Button type="primary" size="large" href="https://github.com/cvluca/gatsby-starter-markdown">Github</Button>
+          <Button type="primary" size="large" href="./contact-us">Contact us</Button>
         </div>
       </div>
     </Layout>
