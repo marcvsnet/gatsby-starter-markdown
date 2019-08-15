@@ -23,6 +23,7 @@ const ProfilePage = () => {
             <b>VMware Validate Design for SDDC</b>
             <br/><br/>
             <i>or</i>
+            <br/><br/>
             <b>individual products of the stack like</b>
             <br/><br/>
             <ul>
@@ -39,14 +40,15 @@ const ProfilePage = () => {
               <li>VMware Integrated OpenStack</li>
               <li>VMware Enterprise PKS</li>
             </ul>
-            <br/><br/>
+            <br/>
             As part of the architecture role we deliver:
+            <br/><br/>
             <ul>
               <li>Requirements engineering</li>
               <li>Architecture documentation (High- and Low level designs)</li>
               <li>Work package definition</li>
             </ul>
-            <br/><br/>
+            <br/>
             <h3>Automation</h3>
             Everybody talks about automation today. We do it now for seven years on-going on an enterprise level with:
             <br/><br/>
@@ -55,8 +57,9 @@ const ProfilePage = () => {
               <li>vRealize Orchestrator</li>
               <li>PowerShell/PowerCLI</li>
             </ul>
-            <br/><br/>
+            <br/>
             Starting from the really beginning, we
+            <br/><br/>
             <ul>
               <li>Analyse the automation requirements</li>
               <li>Define the automation processes with stakeholders</li>
