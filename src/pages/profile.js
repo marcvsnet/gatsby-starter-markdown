@@ -56,6 +56,7 @@ const ProfilePage = () => {
               <li>vRealize Automation</li>
               <li>vRealize Orchestrator</li>
               <li>PowerShell/PowerCLI</li>
+              <li>AWS products</li>
             </ul>
             <br/>
             Starting from the really beginning, we
@@ -67,10 +68,11 @@ const ProfilePage = () => {
               <li><b>Test</b> and <b>stage</b> the automation items</li>
             </ul>
             <br/><br/>
-            <h2>How did we proof our experties?</h2>
+            <h2>How did we proof our expertise?</h2>
             <h3>Customer references</h3>
             We worked in small and large projects with several key players in their industry. Working closely with their teams, being them a good advisor, train them and taking care after
             closing the project belongs to our key values. Please understand that we can't publish the company names, but use this list as an rough indicator, for whom we worked and delivered:
+            <br/><br/>
             <ul>
               <li>Large German banks</li>
               <li>Large German insurances</li>
