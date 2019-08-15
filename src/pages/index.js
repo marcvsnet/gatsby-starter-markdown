@@ -9,9 +9,9 @@ const IndexPage = () => {
       <div>
         <div align="center">
         <br/>
-          <img src={headerPic} alt="Logo" />
+          <img style={{width: 300}} src={headerPic} alt="Logo" />
           <p style={{color: "black", fontSize: 30}}>
-            Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind.
+            Probleme kann man niemals<br/>mit derselben Denkweise lösen,<br/>durch die sie entstanden sind.
           </p>
           <i>Albert Einstein</i>
           <br/>
