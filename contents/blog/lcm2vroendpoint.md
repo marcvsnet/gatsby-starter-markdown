@@ -12,7 +12,7 @@ The root cause seems to be missing Xenon Admin Token in any configuration databa
 To fix this, do the following:
 
 * Enable access to the built-in vRO by connection to vRSLCM appliance via SSH 
-  ```bash
+  ```shell
   iptables -A INPUT -p tcp --dport 8281 -m conntrack --ctstate NEW,ESTABLISHED -j ACCEPT
   ```
  

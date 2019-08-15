@@ -36,6 +36,7 @@ const ProfilePage = () => {
                 <li>vRealize Lifecycle Manager</li>
               </ul>
               <li>VMware NSX-T and NSX-V</li>
+              <li>VMware vSAN</li>
               <li>VMware Cloud on AWS</li>
               <li>VMware Integrated OpenStack</li>
               <li>VMware Enterprise PKS</li>
