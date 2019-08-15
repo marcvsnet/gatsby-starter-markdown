@@ -11,16 +11,18 @@ const ProfilePage = () => {
         <div align="center">
           <h1>You ask. We deliver.</h1>
           <br/>
-          <div class="blog-post" style="text-align: left;">
+          <div class="blog-post" style={{align: left}}>
             <h2>What is our focus?</h2>
             Nobody is able to know everything in every space in IT. So we focused in specific spaces to offer you the best consulting expierence.
             <h3>Architecture</h3>
             You are looking for somebody who is able to handle the full picture of a greenfield architecture or is even able to convert
             your brownfield architecture into a validated and industry accepted standardized, but customized, design?
             We are the right partner for you. We are specialized in enterprise-sized architectures for:
+            <br/>
             VMware Validate Design for SDDC
-
+            <br/>
             <i>or just single products like</i>
+            <br/>
             <ul>
               <li>VMware vSphere</li>
               <li>VMware vRealize Suite</li>
