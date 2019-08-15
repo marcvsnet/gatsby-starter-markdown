@@ -1,6 +1,7 @@
 import React from 'react'
 import Layout from '../components/Layout'
-import 'antd/lib/button/style/css'
+import { ReactComponent as Logo } from 'src/images/undraw_light_the_fire_gt58.svg';
+
 
 const IndexPage = () => {
   return (
@@ -8,7 +9,8 @@ const IndexPage = () => {
       <div>
         <div align="center">
         <br/>
-          <p style={{color: "black", fontSize: 50}}>
+          <Logo />
+          <p style={{color: "black", fontSize: 30}}>
             Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind.
           </p>
           <i>Albert Einstein</i>
