@@ -43,7 +43,7 @@ const ImpressPage = () => {
             <h2>Datenschutzerklärung</h2>
             Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf. (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
             <br/><br/>
-            <h4>VERANTWORTLICHER</h4>
+            <h4>Verantwortlicher</h4>
             Marcus Schoen<br/>
             Kurhessenstr. 160<br/>
             60431 Frankfurt am Main
