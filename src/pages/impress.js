@@ -8,12 +8,12 @@ const ImpressPage = () => {
   return (
     <Layout>
       <div>
-        <div align="center">
-          <br/>
+      <div align="center">
+      <br/>
           <h2>Impress</h2>
           <br></br>
           <div class="blog-post" style={{textAlign: "left"}}>
-            Verantwortlich
+          Verantwortlich
             <br/><br/>
             Marcus Schoen
             Kurhessenstr. 160
@@ -36,7 +36,7 @@ const ImpressPage = () => {
             <h3>Copyrights</h3>
             The content and works provided on these Web pages are governed by the copyright laws of Germany. Duplication, processing, distribution, or any form of commercialization of such material beyond the scope of the copyright law shall require the prior written consent of its respective author or creator.
             <br/><br/>
-            S&K Rechtsanwälte www.streifler.de; Englisch-Übersetzung durch Twigg’s Translations
+            S&amp;K Rechtsanwälte www.streifler.de; Englisch-Übersetzung durch Twigg’s Translations
             <br/><br/>
             <br/><br/>
             <h2>Datenschutzerklärung</h2>
@@ -121,7 +121,7 @@ const ImpressPage = () => {
             <h3>ERHEBUNG VON ZUGRIFFSDATEN UND LOGFILES</h3>
             Wir, bzw. unser Hostinganbieter, erhebt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.<br/>
             <br/>
-            Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von Missbrauchs- oder Betrugshandlungen) für die Dauer von maximal 7 Tagen gespeichert und danach gelöscht. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.</br>
+            Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von Missbrauchs- oder Betrugshandlungen) für die Dauer von maximal 7 Tagen gespeichert und danach gelöscht. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.<br/>
             <br/>
             <h3>EINBINDUNG VON DIENSTEN UND INHALTEN DRITTER</h3>
             Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Videos oder Schriftarten einzubinden (nachfolgend einheitlich bezeichnet als “Inhalte”). <br/>
