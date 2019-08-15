@@ -1,8 +1,6 @@
 import React from 'react'
 import Layout from '../components/Layout'
-import Button from 'antd/lib/button'
 import 'antd/lib/button/style/css'
-import { Link } from "gatsby"
 
 const IndexPage = () => {
   return (
@@ -10,15 +8,11 @@ const IndexPage = () => {
       <div>
         <div align="center">
         <br/>
-          <p style={{color: "cornflowerblue", fontSize: 50, fontWeight: 'bold'}}>
-            schoen solutions
+          <p style={{color: "black", fontSize: 50}}>
+            Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind.
           </p>
-          <h2>Boilerplate for markdown-based website</h2>
+          <i>Albert Einstein</i>
           <br/>
-          <Link to="/docs/get-started/introduction">
-            <Button type="primary" size="large" style={{marginRight: 10}}>Get Started</Button>
-          </Link>
-          <Button type="primary" size="large" href="https://github.com/cvluca/gatsby-starter-markdown">Github</Button>
         </div>
       </div>
     </Layout>
