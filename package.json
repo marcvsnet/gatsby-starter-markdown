@@ -13,7 +13,7 @@
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sharp": "^5.5.0",
     "gatsby-remark-autolink-headers": "^2.0.16",
-    "gatsby-remark-images": "^3.0.14",
+    "gatsby-remark-images": "^7.5.0",
     "gatsby-remark-katex": "^3.0.4",
     "gatsby-source-filesystem": "^5.5.0",
     "gatsby-transformer-json": "^2.1.11",
